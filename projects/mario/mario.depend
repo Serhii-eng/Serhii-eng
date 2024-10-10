@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1721598339 source:d:\projects_c\mario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1721598339 source:d:\projects_c\projects\mario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+

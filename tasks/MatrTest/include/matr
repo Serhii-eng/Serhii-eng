@@ -1,0 +1,15 @@
+#ifndef MATR_
+#define MATR_
+
+
+class matr
+{
+    public:
+        matr();
+
+    protected:
+
+    private:
+};
+
+#endif // MATR_

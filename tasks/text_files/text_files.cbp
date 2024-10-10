@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="text_files" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/text_files" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/text_files" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="file_04.txt" />
+		<Unit filename="file_05.txt" />
+		<Unit filename="file_06a.txt" />
+		<Unit filename="file_06b.txt" />
+		<Unit filename="file_07.txt" />
+		<Unit filename="file_08a.txt" />
+		<Unit filename="file_08b.txt" />
+		<Unit filename="file_09.txt" />
+		<Unit filename="file_10.txt" />
+		<Unit filename="file_12.txt" />
+		<Unit filename="file_13.txt" />
+		<Unit filename="file_14.txt" />
+		<Unit filename="file_15.txt" />
+		<Unit filename="file_16.txt" />
+		<Unit filename="file_17a.txt" />
+		<Unit filename="file_17b.txt" />
+		<Unit filename="file_18.txt" />
+		<Unit filename="file_19.txt" />
+		<Unit filename="file_20.txt" />
+		<Unit filename="file_21.txt" />
+		<Unit filename="file_22.txt" />
+		<Unit filename="file_23.txt" />
+		<Unit filename="file_23b.txt" />
+		<Unit filename="file_24.txt" />
+		<Unit filename="file_25.txt" />
+		<Unit filename="file_26.txt" />
+		<Unit filename="file_27.txt" />
+		<Unit filename="file_28.txt" />
+		<Unit filename="file_29.txt" />
+		<Unit filename="file_30.txt" />
+		<Unit filename="file_31.txt" />
+		<Unit filename="file_31a.txt" />
+		<Unit filename="file_32.txt" />
+		<Unit filename="file_32a.txt" />
+		<Unit filename="file_33.txt" />
+		<Unit filename="file_33a.txt" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tools.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tools.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

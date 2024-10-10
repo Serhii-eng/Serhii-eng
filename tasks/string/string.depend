@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1699091245 source:d:\projects_c\string\mystring.c
+	"mystring.h"
+
+1699091245 d:\projects_c\string\mystring.h
+
+1699795143 source:d:\projects_c\string\main.c
+	"charqueue.h"
+	"charstack.h"
+	"mystring.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+
+1699705892 d:\projects_c\string\charstack.h
+
+1699707423 source:d:\projects_c\string\charstack.c
+	"charstack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1699791785 d:\projects_c\string\charqueue.h
+
+1699794957 source:d:\projects_c\string\charqueue.c
+	"charqueue.h"
+	<stdio.h>
+	<stdlib.h>
+

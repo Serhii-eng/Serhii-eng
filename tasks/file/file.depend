@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1715771335 source:d:\projects_c\file\main.c
+	"myfile.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1715541473 source:d:\projects_c\file\myfile.c
+	"myfile.h"
+	"stdio.h"
+	"stdlib.h"
+	<time.h>
+	<string.h>
+	<stdbool.h>
+
+1715541526 d:\projects_c\file\myfile.h
+

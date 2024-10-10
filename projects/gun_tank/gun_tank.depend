@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1717358566 source:d:\projects\gun_tank\main.c
+	"common.h"
+	"bullet.h"
+	"viewport.h"
+	<stdio.h>
+	<stdlib.h>
+
+1717356138 d:\projects\gun_tank\bullet.h
+
+1717356785 source:d:\projects\gun_tank\bullet.c
+	"common.h"
+	"bullet.h"
+	<math.h>
+
+1717356630 d:\projects\gun_tank\common.h
+	<math.h>
+
+1717356523 d:\projects\gun_tank\viewport.h
+
+1717358430 source:d:\projects\gun_tank\viewport.c
+	"common.h"
+	"viewport.h"
+	<stdio.h>
+
+1717356737 source:d:\projects\gun_tank\common.c
+	"common.h"
+	<windows.h>
+
+1718021484 source:c:\users\user01\dropbox\projects\gun_tank\bullet.c
+	"common.h"
+	"bullet.h"
+	<math.h>
+
+1717356630 c:\users\user01\dropbox\projects\gun_tank\common.h
+	<math.h>
+
+1717356138 c:\users\user01\dropbox\projects\gun_tank\bullet.h
+
+1718020678 source:c:\users\user01\dropbox\projects\gun_tank\common.c
+	"common.h"
+	<windows.h>
+
+1718035486 source:c:\users\user01\dropbox\projects\gun_tank\main.c
+	"common.h"
+	"bullet.h"
+	"viewport.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718020289 c:\users\user01\dropbox\projects\gun_tank\viewport.h
+
+1718021974 source:c:\users\user01\dropbox\projects\gun_tank\viewport.c
+	"common.h"
+	"viewport.h"
+	<stdio.h>
+
+1718021484 source:d:\lenguage c\lesson 13\gun_tank\bullet.c
+	"common.h"
+	"bullet.h"
+	<math.h>
+
+1720901367 d:\lenguage c\lesson 13\gun_tank\common.h
+	<math.h>
+
+1717356138 d:\lenguage c\lesson 13\gun_tank\bullet.h
+
+1718020678 source:d:\lenguage c\lesson 13\gun_tank\common.c
+	"common.h"
+	<windows.h>
+
+1720899899 source:d:\lenguage c\lesson 13\gun_tank\main.c
+	"objects.h"
+	"common.h"
+	"bullet.h"
+	"viewport.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1720902566 d:\lenguage c\lesson 13\gun_tank\viewport.h
+	"bullet.h"
+
+1720902182 source:d:\lenguage c\lesson 13\gun_tank\viewport.c
+	"common.h"
+	"viewport.h"
+	"objects.h"
+	<stdio.h>
+	<stdlib.h>
+
+1720900164 source:d:\lenguage c\lesson 13\gun_tank\objects.c
+	"objects.h"
+
+1720902441 d:\lenguage c\lesson 13\gun_tank\objects.h
+	"viewport.h"
+	"bullet.h"
+	<stdbool.h>
+	<math.h>
+	<stdio.h>
+
+1718021484 source:d:\projects_c\gun_tank\bullet.c
+	"common.h"
+	"bullet.h"
+	<math.h>
+
+1721557120 d:\projects_c\gun_tank\common.h
+	<math.h>
+
+1717356138 d:\projects_c\gun_tank\bullet.h
+
+1721594125 source:d:\projects_c\gun_tank\common.c
+	"common.h"
+	<windows.h>
+
+1722172574 source:d:\projects_c\gun_tank\main.c
+	"objects.h"
+	"common.h"
+	"bullet.h"
+	"viewport.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+
+1722170938 d:\projects_c\gun_tank\objects.h
+	"viewport.h"
+	"bullet.h"
+	<stdbool.h>
+	<math.h>
+	<stdio.h>
+
+1722171642 d:\projects_c\gun_tank\viewport.h
+	"objects.h"
+	"bullet.h"
+
+1722171750 source:d:\projects_c\gun_tank\objects.c
+	"objects.h"
+	<windows.h>
+
+1721555855 source:d:\projects_c\gun_tank\viewport.c
+	"common.h"
+	"objects.h"
+	"viewport.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718021484 source:d:\projects_c\projects\gun_tank\bullet.c
+	"common.h"
+	"bullet.h"
+	<math.h>
+
+1721557120 d:\projects_c\projects\gun_tank\common.h
+	<math.h>
+
+1717356138 d:\projects_c\projects\gun_tank\bullet.h
+
+1721594125 source:d:\projects_c\projects\gun_tank\common.c
+	"common.h"
+	<windows.h>
+
+1722172574 source:d:\projects_c\projects\gun_tank\main.c
+	"objects.h"
+	"common.h"
+	"bullet.h"
+	"viewport.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+
+1722170938 d:\projects_c\projects\gun_tank\objects.h
+	"viewport.h"
+	"bullet.h"
+	<stdbool.h>
+	<math.h>
+	<stdio.h>
+
+1722171642 d:\projects_c\projects\gun_tank\viewport.h
+	"objects.h"
+	"bullet.h"
+
+1722171750 source:d:\projects_c\projects\gun_tank\objects.c
+	"objects.h"
+	<windows.h>
+
+1721555855 source:d:\projects_c\projects\gun_tank\viewport.c
+	"common.h"
+	"objects.h"
+	"viewport.h"
+	<stdio.h>
+	<stdlib.h>
+

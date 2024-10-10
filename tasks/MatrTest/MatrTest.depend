@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1694606501 source:d:\projects_c\matrtest\main.c
+	"matr.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1694605020 source:d:\projects_c\matrtest\matr_tools.c
+	"intset.h"
+	"matr_tools.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1694606399 source:d:\projects_c\matrtest\matr.c
+	"intset.h"
+	"matr.h"
+	"matr_tools.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1689418519 d:\projects_c\matrtest\matr.h
+
+1694606399 d:\projects_c\matrtest\matr_tools.h
+	<stdbool.h>
+
+1690632116 source:d:\projects_c\matrtest\intset.c
+	"intset.h"
+
+1693140544 d:\projects_c\matrtest\intset.h
+

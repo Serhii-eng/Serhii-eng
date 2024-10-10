@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1724584830 source:d:\projects_c\text_files\tools.c
+	"tools.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1724587198 source:d:\projects_c\text_files\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<stdbool.h>
+
+1724586615 d:\projects_c\text_files\tools.h
+	<stdbool.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1670678744 source:d:\zadachi_z_masuvamu\main.c
+	"string_plus.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<time.h>
+	<string.h>
+
+1670680023 source:d:\zadachi_z_masuvamu\string_plus.c
+	"string_plus.h"
+	<string.h>
+
+1670678463 d:\zadachi_z_masuvamu\string_plus.h
+

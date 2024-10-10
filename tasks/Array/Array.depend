@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1688206193 source:d:\projects_c\array\main.c
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<time.h>
+
+1687552362 d:\projects_c\array\array.h
+
+1688207791 source:d:\projects_c\array\array.c
+	"array_tools.h"
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<time.h>
+
+1687978964 d:\projects_c\array\array_tools.h
+	<stdbool.h>
+
+1687978781 source:d:\projects_c\array\array_tools.c
+	"array_tools.h"
+	<stdlib.h>
+

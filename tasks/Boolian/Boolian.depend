@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639234397 source:d:\projects_c\boolian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
