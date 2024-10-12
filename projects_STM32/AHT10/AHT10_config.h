@@ -1,0 +1,1 @@
+//#define AHT10_I2C			hi2c1

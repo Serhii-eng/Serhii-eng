@@ -1,0 +1,1 @@
+#define HTU21D_I2C			hi2c1

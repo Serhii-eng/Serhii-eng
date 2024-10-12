@@ -1,0 +1,27 @@
+--cpu Cortex-M0+
+"g030f6p6_leds_and_keys\startup_stm32g030xx.o"
+"g030f6p6_leds_and_keys\main.o"
+"g030f6p6_leds_and_keys\stm32g0xx_it.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_msp.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_tim.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_tim_ex.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_rcc.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_rcc_ex.o"
+"g030f6p6_leds_and_keys\stm32g0xx_ll_rcc.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_flash.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_flash_ex.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_gpio.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_dma.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_dma_ex.o"
+"g030f6p6_leds_and_keys\stm32g0xx_ll_dma.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_pwr.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_pwr_ex.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_cortex.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal.o"
+"g030f6p6_leds_and_keys\stm32g0xx_hal_exti.o"
+"g030f6p6_leds_and_keys\system_stm32g0xx.o"
+"g030f6p6_leds_and_keys\button_handler.o"
+--strict --scatter "G030F6P6_LEDS_AND_KEYS\G030F6P6_LEDS_AND_KEYS.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "G030F6P6_LEDS_AND_KEYS.map" -o G030F6P6_LEDS_AND_KEYS\G030F6P6_LEDS_AND_KEYS.axf
